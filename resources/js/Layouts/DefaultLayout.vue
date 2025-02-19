@@ -15,7 +15,6 @@ export default {
 <template>
     <Menu/>
 
-    <Slideshow/>
     <Footer/>
 
 
